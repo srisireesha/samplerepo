@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 updated in qat -123-updaed by januy
  
+=======
+qwerty
+>>>>>>> npd
